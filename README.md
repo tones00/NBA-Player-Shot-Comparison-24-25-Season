@@ -1,4 +1,4 @@
-# Basketball Shot Tracker *IN PROGRESS*
+# Basketball Shot Comparison *IN PROGRESS*
 
 A web scraper for basketball-reference.com that extracts player shooting data and creates shot charts for the 2024-2025 NBA season. 
 
